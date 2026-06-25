@@ -598,5 +598,4 @@ function ContentStudio({ savedContent, updateContent }) {
       )}
     </div>
   );
-}
-}
+
